@@ -30,6 +30,12 @@ Before installing this tool on your Android device (via Termux), ensure you have
 ---
 
 ## 🛠️ STEP-BY-STEP INSTALLATION GUIDE (1, 2, 3...)
+1. pkg update && pkg upgrade -y
+2. pkg install git nodejs -y
+3. git clone https://github.com/RayyanHacke/Rayyan-WhatsApp-Poll-Bot.git
+4. cd Rayyan-WhatsApp-Poll-Bot
+5. npm install @whiskeysockets/baileys pino
+6. node bot.js
 
 Copy and run the following numbered commands one by one in your **Termux** terminal:
 
