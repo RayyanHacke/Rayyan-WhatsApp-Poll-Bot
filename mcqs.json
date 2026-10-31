@@ -1,0 +1,123 @@
+[
+  {
+    "question": "1. CPR stands for:",
+    "options": ["A. Cardiac Pressure Recovery", "B. Cardiopulmonary Resuscitation", "C. Coronary Pulmonary Response", "D. Cardiac Perfusion Regulation"]
+  },
+  {
+    "question": "2. During cardiopulmonary arrest, the priority is:",
+    "options": ["A. Routine assessment", "B. Emergency/lifesaving care", "C. Dietary management", "D. Physical exercise"]
+  },
+  {
+    "question": "3. During emergency care, the nurse should maintain:",
+    "options": ["A. Closed circulation", "B. Patent airway", "C. Low body temperature", "D. Fluid restriction"]
+  },
+  {
+    "question": "4. Oxygen is administered during emergency care when:",
+    "options": ["A. Needed", "B. The patient is sleeping", "C. Blood pressure is normal", "D. The patient is eating"]
+  },
+  {
+    "question": "5. Mitral regurgitation is caused by:",
+    "options": ["A. Complete closure of mitral valve", "B. Incomplete closure of mitral valve", "C. Narrowing of pulmonary valve", "D. Complete obstruction of aorta"]
+  },
+  {
+    "question": "6. In mitral regurgitation, blood flows backward into the:",
+    "options": ["A. Right atrium", "B. Right ventricle", "C. Left atrium", "D. Aorta"]
+  },
+  {
+    "question": "7. Mitral regurgitation can lead to:",
+    "options": ["A. Left atrial hypertrophy", "B. Right atrial atrophy", "C. Pulmonary valve closure", "D. Decreased venous pressure"]
+  },
+  {
+    "question": "8. A common manifestation of mitral regurgitation is:",
+    "options": ["A. Fatigue and weakness", "B. Increased appetite", "C. Hearing loss", "D. Joint deformity"]
+  },
+  {
+    "question": "9. The murmur associated with mitral regurgitation is described as:",
+    "options": ["A. Harsh diastolic", "B. Blowing, high-pitched systolic", "C. Silent", "D. Low-pitched continuous"]
+  },
+  {
+    "question": "10. Aortic stenosis involves:",
+    "options": ["A. Widening of the aortic valve", "B. Narrowing of the aortic valve", "C. Rupture of the tricuspid valve", "D. Enlargement of the pulmonary artery"]
+  },
+  {
+    "question": "11. Aortic stenosis makes blood flow from the left ventricle to the:",
+    "options": ["A. Right atrium", "B. Pulmonary artery", "C. Aorta", "D. Right ventricle"]
+  },
+  {
+    "question": "12. In aortic stenosis, the left ventricle develops hypertrophy as a:",
+    "options": ["A. Compensatory mechanism", "B. Infectious process", "C. Nervous response", "D. Renal response"]
+  },
+  {
+    "question": "13. The most common symptom mentioned for aortic stenosis is:",
+    "options": ["A. Chest pain/angina", "B. Abdominal pain", "C. Skin rash", "D. Hearing impairment"]
+  },
+  {
+    "question": "14. Aortic stenosis may cause exertional:",
+    "options": ["A. Syncope", "B. Diarrhea", "C. Jaundice", "D. Seizures only"]
+  },
+  {
+    "question": "15. The murmur of aortic stenosis is:",
+    "options": ["A. Harsh, rough, mid-systolic", "B. Soft, blowing diastolic", "C. High-pitched continuous", "D. Absent in all cases"]
+  },
+  {
+    "question": "16. One surgical intervention for aortic stenosis is:",
+    "options": ["A. Balloon aortic valvuloplasty", "B. Mitral commissurotomy", "C. Kidney transplantation", "D. Coronary thrombolysis"]
+  },
+  {
+    "question": "17. Aortic regurgitation occurs because of:",
+    "options": ["A. Incomplete closure of the aortic valve", "B. Complete closure of the mitral valve", "C. Narrowing of the tricuspid valve", "D. Enlargement of the pulmonary valve"]
+  },
+  {
+    "question": "18. In aortic regurgitation, blood flows backward into the:",
+    "options": ["A. Right atrium", "B. Left ventricle", "C. Right ventricle", "D. Pulmonary artery"]
+  },
+  {
+    "question": "19. Aortic regurgitation may cause left ventricular:",
+    "options": ["A. Hypertrophy and dilation", "B. Atrophy only", "C. Complete paralysis", "D. Narrowing"]
+  },
+  {
+    "question": "20. Aortic regurgitation may eventually lead to:",
+    "options": ["A. Left-sided heart failure", "B. Only kidney failure", "C. Liver infection", "D. Bone disease"]
+  },
+  {
+    "question": "21. A characteristic finding in aortic regurgitation is:",
+    "options": ["A. Bounding pulse", "B. Absent pulse", "C. Slow breathing only", "D. Low temperature"]
+  },
+  {
+    "question": "22. The murmur of aortic regurgitation is:",
+    "options": ["A. Soft, blowing diastolic", "B. Harsh mid-systolic", "C. Loud continuous", "D. No murmur"]
+  },
+  {
+    "question": "23. Tricuspid stenosis affects blood flow from the:",
+    "options": ["A. Left atrium to left ventricle", "B. Right atrium to right ventricle", "C. Left ventricle to aorta", "D. Right ventricle to pulmonary artery"]
+  },
+  {
+    "question": "24. Tricuspid stenosis can cause blood to accumulate in the:",
+    "options": ["A. Systemic circulation", "B. Pulmonary veins only", "C. Left ventricle", "D. Aorta"]
+  },
+  {
+    "question": "25. A manifestation of tricuspid stenosis is:",
+    "options": ["A. Hepatomegaly", "B. Increased vision", "C. Hearing loss", "D. Dry skin only"]
+  },
+  {
+    "question": "26. Tricuspid regurgitation causes blood to flow backward into the:",
+    "options": ["A. Left atrium", "B. Left ventricle", "C. Right atrium", "D. Aorta"]
+  },
+  {
+    "question": "27. Tricuspid regurgitation can lead to:",
+    "options": ["A. Venous congestion", "B. Increased coronary flow only", "C. Left ventricular obstruction", "D. Aortic dilation only"]
+  },
+  {
+    "question": "28. A manifestation of moderate-to-severe tricuspid regurgitation is:",
+    "options": ["A. Swelling of feet and ankles", "B. Improved exercise tolerance", "C. Increased urine output", "D. Decreased neck vein pulsation"]
+  },
+  {
+    "question": "29. Pulmonic valve stenosis is usually:",
+    "options": ["A. Congenital in origin", "B. Caused only by hypertension", "C. Caused only by diabetes", "D. Always acquired in old age"]
+  },
+  {
+    "question": "30. In pulmonic valve stenosis, the right ventricle may develop hypertrophy to:",
+    "options": ["A. Stop venous return", "B. Compensate and force blood toward the pulmonary artery", "C. Reduce coronary circulation", "D. Increase left atrial pressure"]
+  }
+]
+
